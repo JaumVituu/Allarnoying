@@ -11,6 +11,14 @@
     <string name="dia6">S</string>
     <string name="dia7">S</string>
     <string name="saveButao">Salvar</string>
-
+    <string name="vibraButao">Vibrar</string>
+    <string name="flashCheck">Piscar Flash</string>
+    <string name="DesafioCheck">Ativar Desafios</string>
+    <string name="AlarmeBar">Som do Alarme</string>
+    <string name="Desafiotxt">Desafios</string>
+    <string name="Matematicos">Matematico</string>
+    <string name="Imagens">Imagens</string>
+    <string name="Texto">Texto</string>
+    <string name="Charada">Charada</string>
 
 </resources>
